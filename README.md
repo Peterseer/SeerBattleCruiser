@@ -1,1 +1,4 @@
-# SeerBattleCruiser
+# 赛尔号战列巡航舰
+这里用于展示Peterseer开发的赛尔号引擎使用的部分代码素材。目前多数还是使用Flash的Actionscript3.0语言。
+后面会持续更新新的功能！
+
